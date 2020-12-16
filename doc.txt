@@ -1,0 +1,14 @@
+                                tasks
+ 1- find name of the game
+ 2- decide characters and non- playing characters(images) 
+ 3- create a track with small bumps using matter.js 
+ 4- make the track long enough so that player can go on for a while 
+ 5- place and move the character using right and left arrow keys
+ 6- make the car go on a bump 
+ 7- use a and d keys to tilt the car
+ 8- defeat if car is flipped (force is too high){
+     make it defeat if it is only touching the ground}
+ 9- create the winning condition
+10- create nitrogen functionality(show nitrogen fillup, increase or decrease nitrogen)    
+11- show time used to complete level
+12- create second level 
